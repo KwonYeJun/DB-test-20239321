@@ -1,0 +1,24 @@
+{
+  "name": "db-test-20239321",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwonYeJun/DB-test-20239321.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwonYeJun/DB-test-20239321/issues"
+  },
+  "homepage": "https://github.com/KwonYeJun/DB-test-20239321#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0"
+  }
+}
